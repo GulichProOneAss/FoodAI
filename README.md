@@ -278,22 +278,11 @@ FoodAI/
 
 Поддержка дополнительных языков и датасетов.
 
-Лицензия
-
-MIT License. См. файл LICENSE для подробностей.
-
-Контакты
-
 
 
 
 
 Автор: Гулин Данила Андреевич
-
-
-
-Email: your.email@example.com
-
 
 
 Telegram-бот: @BotFoodAI_Bot
